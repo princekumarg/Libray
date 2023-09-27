@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navigation{
+    background-color: rgb(77,77,77);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+button{
+    margin: 5px 0px 5px 700px;
+}
+.padding1{
+    padding-top: 10px;
+    padding-left: 70px;
+}
+.padding2{
+   padding-top: 10px;
+   padding-right: 70px;
+}
+
